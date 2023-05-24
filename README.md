@@ -8,7 +8,7 @@ Ce test technique servira de base à l'entretien technique pour le poste de dév
 
 ## Back-end
 
-Créez une simple API CRUD de catalogue produit. Celle-ci devra permettre :
+1. Créez une simple API CRUD de catalogue produit. Celle-ci devra permettre :
 
 - De lister des catégories d'articles.
 - D'ajouter ou d'éditer une catégorie / un produit.
@@ -21,6 +21,8 @@ Créez une simple API CRUD de catalogue produit. Celle-ci devra permettre :
   - Sa quantité (0 ou 1)
   - Son status (Accepté ou En attente)
   - ...
+
+2. On veut sécuriser les endpoints qui sont en écritures donc trouvez un moyen simple et efficace pour le faire.
 
 ### A garder en tête
 
@@ -43,7 +45,7 @@ Afin de pouvoir lancer ton projet en local, il faudra fournir un script pour cr�
 
 ## Documentation
 
-Il faudra fournir une documentation de tes endpoints pour me permettre de les tester avec un outil tel que Postman.
+Il faudra fournir une documentation de l'installation de ton projet en local et de tes endpoints pour me permettre de les tester avec un outil tel que Postman.
 
 ## Bonus
 
